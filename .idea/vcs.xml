@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/HttpServletLab-TP1" vcs="Git" />
+=======
+>>>>>>> 5b94c76c35010d4a5f9233d3038338e021399792
   </component>
 </project>
